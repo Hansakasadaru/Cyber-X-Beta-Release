@@ -56,10 +56,10 @@ global.themeemoji = "📩" //ur theme emoji
 global.packname = "Cyber-X Test Bot" //ur sticker watermark packname
 global.author = "DARK ALPHA" //ur sticker watermark author
 global.footer = "® cyber-x Sadiya vip max"
-global.aliveimg ="https://telegra.ph/file/88d6fdeff08bbc4945901.jpg"
-global.allmenuimg ="https://telegra.ph/file/88d6fdeff08bbc4945901.jpg"
-global.welcomeimg= "https://telegra.ph/file/88d6fdeff08bbc4945901.jpg"
-global.gbyeimg = "https://telegra.ph/file/88d6fdeff08bbc4945901.jpg"
+global.aliveimg ="https://ibb.co/NxBBqTL"
+global.allmenuimg ="https://ibb.co/NxBBqTL"
+global.welcomeimg= "https://ibb.co/NxBBqTL"
+global.gbyeimg = "https://ibb.co/NxBBqTL"
 global.alivemsg = "ඔබ සතුව නැති දේ ලබා ගැනීමේ පහසුම ක්‍රමය  ඇගයීමයි. හැකි සෑම විටම තව කෙනෙක්ව ඇගයීමට උත්සහ කරන්න. එය ඔබේ මානසික සංවර්ධිත බවේ සලකුණකි..\nසංස්කරණය කළ පරිවර්තනයකි...\n@best_m_otivation\n#lifetips\n#psychology\n#questions"
 
 //BOT MEDIAS
