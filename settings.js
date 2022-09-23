@@ -36,27 +36,27 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //OWNER CONTACT
-global.vcardowner = ['94752233074'] //ur owner number
+global.vcardowner = ['94767052991'] //ur owner number
 global.ownername = "𝚂𝙰𝙳𝙸𝚈𝙰 𝚅𝙸𝙿 𝙼𝙰𝚇" //ur owner name
 global.ytname = "YT: SADIYA VIP MAX" //ur yt chanel name
 global.socialm = "GitHub: darkalphaxteam" //ur github or insta name
 global.location = "Sri lanka,kalugolla,pahalalanda,ampara" //ur location
 
 //BOT COSTOMIZEDTATION
-global.owner = ['94752233074']
-global.ownertag = '94752233074' //ur tag number
-global.botnumber = '94752233074' //Add your Bot Number For Log
-global.botname = 'CYBER-X BETA ' //ur bot name
+global.owner = ['94767052991']
+global.ownertag = '94767052991' //ur tag number
+global.botnumber = '94767052991' //Add your Bot Number For Log
+global.botname = 'CYBER-X YAKA ' //ur bot name
 global.ig = "https://youtube.com/c/SHBgamingbussid" //your theme url which will be displayed on whatsapp
 global.myweb = "https://youtube.com/c/SHBgamingbussid" //ur website to be displayed
 global.sc = 'https://github.com/darkalphaxteam' //script link
 global.linkz = 'https://youtube.com/c/SHBgamingbussid'
 global.reactmoji = "😘" //ur menu react emoji
 global.themeemoji = "📩" //ur theme emoji
-global.packname = "Cyber-X Test Bot" //ur sticker watermark packname
-global.author = "DARK ALPHA" //ur sticker watermark author
+global.packname = "Cyber-X Bot" //ur sticker watermark packname
+global.author = "𝚂𝙰𝙳𝙸𝚈𝙰 𝚅𝙸𝙿 𝙼𝙰𝚇" //ur sticker watermark author
 global.footer = "® cyber-x Sadiya vip max"
-global.aliveimg ="https://ibb.co/NxBBqTL"
+global.aliveimg ="https://ibb.co/NxBBqTL🫣"
 global.allmenuimg ="https://ibb.co/NxBBqTL"
 global.welcomeimg= "https://ibb.co/NxBBqTL"
 global.gbyeimg = "https://ibb.co/NxBBqTL"
@@ -70,7 +70,7 @@ global.thumb = fs.readFileSync("./LocalData/theme/cyber.jpg") //ur thumb pic
 
 //DATA BASED
 
-global.premium = ['94752233074'] //ADD YOU NUMBER
+global.premium = ['94767052991'] //ADD YOU NUMBER
 global.ntilinkytvid = []
 global.ntilinkytch = []
 global.ntilinkig = []
@@ -97,15 +97,15 @@ global.prefa = ['','!','.']
 global.sp = '⭔'
 global.mess = {
     success: '✉️✏️ _Done_',
-    admin: '✉️✏️ _This Feature Is Only For Admin!_',
-    botAdmin: '✉️✏️ _Bot Must Be Admin First!_',
-    owner: '✉️✏️ _This Feature Is Only For Owner!_',
-    group: '✉️✏️ _Feature Used Only For Groups!_',
-    private: '✉️✏️ _Features Used Only For Private Chat!_',
-    bot: '✉️✏️ _This Feature Is Only For Bot_',
-    wait: '✉️✏️ _Processing Please Wait..._',
+    admin: '✉️✏️ _This Feature Is Only For Admin!🤡_',
+    botAdmin: '✉️✏️ _Bot Must Be Admin First!👨‍🎓_',
+    owner: '✉️✏️ _This Feature Is Only For Owner!👨‍🦱_',
+    group: '✉️✏️ _Feature Used Only For Groups!👥_',
+    private: '✉️✏️ _Features Used Only For Private Chat!👀_',
+    bot: '✉️✏️ _This Feature Is Only For Bot👁️_',
+    wait: '✉️✏️ _Processing Please Wait...🤝_',
     linkm: '📧✏️ _Where is the link?_',
-    error: '✉️🤕 ```Error!!```',
+    error: '✉️🤕 ```👅🧠Error!!👅```',
     endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
     ban: 'You have been banned by the owner, if you want to be unbanned, chat owner.',
     nsfw: 'The nsfw feature has not been activated, please contact the admin to activate',
